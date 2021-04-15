@@ -18,17 +18,16 @@ The dev branch is updated with every change and is generally in a state that is 
 
 Using Git:
 
-	In your Minecraft saves folder/server folder:
-	
-    1. Clone the repository ```git clone https://github.com/notjeven/adversity.git```
-    2. Go into the repository ```cd adversity```
-    3. Use Git to checkout a tag ```git checkout <latest tag>```
+1. Navigate to your Minecraft saves folder/server folder:
+2. Clone the repository ```git clone https://github.com/notjeven/adversity.git```
+3. Go into the repository ```cd adversity```
+4. Use Git to checkout a tag ```git checkout <latest tag>```
 
 Without Git:
 
-    1. Navigate to tags at https://github.com/NotJeven/eris/tags.
-    2. Find your prefered version.
-    3. Download the ```.zip``` or ```.tar``` archive of the latest release.
-    4. Extract your downloaded archive into your Minecraft saves folder/server folder.
+1. Navigate to tags at https://github.com/NotJeven/eris/tags.
+2. Find your prefered version.
+3. Download the ```.zip``` or ```.tar``` archive of the latest release.
+4. Extract your downloaded archive into your Minecraft saves folder/server folder.
 
 If running a server, find ```level-name=``` in the file ```server.properties``` and change the level name to the extracted folder name.
